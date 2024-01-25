@@ -44,6 +44,7 @@ Xception is composed of three sections: the entry flow, the middle flow, and the
 
 - Open Evaluate Model.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elangarka/Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate/blob/main/Evaluate_Model.ipynb)
 - Upload model (.h5) and dataset to google colab
+- Run the program
 
 *Notes: Please copy the colab files to your drive, thanks!*
 ## RESULT
