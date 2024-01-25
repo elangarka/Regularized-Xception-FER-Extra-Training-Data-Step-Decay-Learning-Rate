@@ -3,4 +3,5 @@
 
 
 
-![Proposed Method2](https://github.com/elangarka/Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate/assets/157675554/4b819116-b26c-4e78-9525-ac78e81394d7)
+
+![Proposed Method2 - Copy](https://github.com/elangarka/Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate/assets/157675554/0bc51e2d-e414-4f19-9777-7cd39b972761)
