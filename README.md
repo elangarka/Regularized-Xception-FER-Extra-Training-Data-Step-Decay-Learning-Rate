@@ -50,14 +50,14 @@ Xception is composed of three sections: the entry flow, the middle flow, and the
 
 The research results show that the model achieved a training accuracy of 96.5%, a validation accuracy of 94.73%, and a test accuracy of 94.3%. In addition, each class achieves a f1-score value of > 90%, indicating a high level of balance between precision and recall for the findings in each class.
 
-Accuracy and loss graph from third training
+**Accuracy and loss graph from third training:**
 ![Screenshot 2023-10-30 180649](https://github.com/elangarka/Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate/assets/157675554/6a1d54aa-d1db-40f9-bcd6-4810ce528745)
 
-Confusion matrix and classification report model
+**Confusion matrix and classification report model:**
 ![Screenshot 2023-11-01 155131](https://github.com/elangarka/Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate/assets/157675554/b532860d-5659-4f61-ac68-045f11302ca9)
 ![Screenshot 2023-11-01 155144](https://github.com/elangarka/Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate/assets/157675554/32d19722-2aa0-4322-9456-53f54944374b)
 
-Test loss and test accuracy model
+**Test loss and test accuracy model:**
 ![Screenshot 2023-11-01 155157](https://github.com/elangarka/Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate/assets/157675554/adde14e2-c58d-4168-a105-87e60181d293)
 
 
