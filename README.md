@@ -1,7 +1,5 @@
 # Regularized Xception for Facial Expression Recognition with Extra Training Data and Step Decay Learning Rate
 
-# Regularized Xception for Facial Expression Recognition with Extra Training Data and Step Decay Learning Rate
-
 Despite extensive research on facial expression recognition, achieving the highest level of accuracy remains challenging. The objective of this study is to enhance the accuracy of current models by adjusting the structure, the data used, and the training procedure. The incorporation of regularization into the Xception architecture, the augmentation of training data, and the utilization of step decay learning rate together address and surpass current constraints. A substantial improvement in accuracy is demonstrated by the assessment conducted on the FER2013 dataset, achieving a remarkable 94.34%. This study introduces potential avenues for enhancing facial expression recognition systems, specifically targeting the requirement for increased accuracy within this domain.
 
 ![Proposed Method try](https://github.com/elangarka/Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate/assets/157675554/c42c96b7-fcb6-428c-abd8-1805bc09f192)
