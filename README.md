@@ -1,1 +1,1 @@
-# Regularized-Xception-FER-Extra-Training-Data-Step-Decay-Learning-Rate
+# Regularized Xception for Facial Expression Recognition with Extra Training Data and Step Decay Learning Rate
